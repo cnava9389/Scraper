@@ -14,7 +14,7 @@ HEIGHT = 0
 HOSTLIST = []
 SUGGESTED = []
 scrapedData = {}
-PATH = "C:\Program Files (x86)\chromedriver.exe"
+PATH = "..\chromedriver.exe"
 
 ID = str(uuid.uuid4()).split('-')[0]
 
